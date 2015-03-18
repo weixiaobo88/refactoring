@@ -1,4 +1,4 @@
-package _0chain.constructors;
+package _0_chain_constructors;
 
 import org.junit.Before;
 import org.junit.Test;
